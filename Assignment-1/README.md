@@ -28,6 +28,13 @@
   ```
     sudo apt install docker-ce docker-ce-cli containerd.io
   ```
+  5. Check Docker version
+  ```
+    docker version
+  ```
+  + **Output**
+  
+    ![docker-version](https://github.com/AzeemQidwai/iba-bda/blob/main/Assignment-1/images/docker-version.png)
   
 ### ⚙️ Setting up Docker on Ubuntu
   1. Run docker without sudo
