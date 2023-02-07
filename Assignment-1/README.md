@@ -11,7 +11,7 @@
   + **OS:** Ubuntu 22.04.01 LTS
 
 ### 🐋 Docker Installation
-  Follow below mentioned steps to install Docker on Ubuntu.
+  Below mentioned steps were followed to install Docker on Ubuntu.
   1. Enable installation via HTTPS
   ```bash
     sudo apt install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
