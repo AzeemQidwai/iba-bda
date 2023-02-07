@@ -1,5 +1,5 @@
 # CSE668 - Big Data Analytics - Assignment 1
-## Running Mac-OS inside a Docker container on Ubuntu 22.04
+## Running Mac-OS inside a Docker container on Ubuntu 22.04.01 LTS
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
