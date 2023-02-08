@@ -35,6 +35,11 @@
   + **Output**
   
     ![docker-version](https://github.com/AzeemQidwai/iba-bda/blob/main/Assignment-1/images/docker-version.png)
+  6. Check Docker status
+  ```
+    sudo systemctl status docker
+  ```
+   ![docker-status](https://github.com/AzeemQidwai/iba-bda/blob/main/Assignment-1/images/docker-status.png)
   
 ### ⚙️ Setting up Docker on Ubuntu
   1. Run docker without sudo
@@ -56,12 +61,6 @@
   ```
     sudo systemctl enable docker
   ```
-  5. Check Docker status
-  ```
-    sudo systemctl status docker
-  ```
-   ![docker-status](https://github.com/AzeemQidwai/iba-bda/blob/main/Assignment-1/images/docker-status.png)
-  
  ***
 ## 📀 Running Mac OS Docker Container
   This is done using sickcodes Docker-OSX. [link](https://github.com/sickcodes/Docker-OSX)
