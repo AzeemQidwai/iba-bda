@@ -77,7 +77,7 @@
     sickcodes/docker-osx:latest
   ```
   
-  **After Installation**
+  **Container is running**
     ![after-install](https://github.com/AzeemQidwai/iba-bda/blob/main/Assignment-1/images/after-install.png)
   
   ### Memory Usage using `htop`
@@ -87,4 +87,4 @@
 ***
 ## Complete video of running project is here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wuj53c9A1-w/0.jpg)](https://www.youtube.com/watch?v=Wuj53c9A1-w)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5-5z8YN-2Hc/0.jpg)](https://www.youtube.com/watch?v=5-5z8YN-2Hc)
