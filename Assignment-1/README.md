@@ -85,6 +85,6 @@
   ![memory-usage](https://github.com/AzeemQidwai/iba-bda/blob/main/Assignment-1/images/memory-usage.png)
   
 ***
-## Complete video of running project is here
+## Complete video of running project
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5-5z8YN-2Hc/0.jpg)](https://www.youtube.com/watch?v=5-5z8YN-2Hc)
