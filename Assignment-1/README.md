@@ -65,7 +65,7 @@
 ## 📀 Running Mac OS Docker Container
   This is done using sickcodes Docker-OSX. [link](https://github.com/sickcodes/Docker-OSX)
   
-  ### Catalina
+  ### Catalina [![https://img.shields.io/docker/image-size/sickcodes/docker-osx/latest?label=sickcodes%2Fdocker-osx%3Alatest](https://img.shields.io/docker/image-size/sickcodes/docker-osx/latest?label=sickcodes%2Fdocker-osx%3Alatest)](https://hub.docker.com/r/sickcodes/docker-osx/tags?page=1&ordering=last_updated)
   Following code is used to run and create the container.
   ```
   docker run -it \
